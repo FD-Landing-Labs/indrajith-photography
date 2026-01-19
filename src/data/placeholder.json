@@ -1,0 +1,596 @@
+{
+  "site": {
+    "name": "Ayshan",
+    "tagline": "Photography Studio",
+    "description": "Professional photography services capturing your most precious moments with artistic vision and technical excellence.",
+    "logo": {
+      "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=Ayshan",
+      "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=Ayshan",
+      "alt": "Ayshan Photography Studio Logo"
+    },
+    "seo": {
+      "title": "Ayshan - Professional Photography Studio",
+      "description": "Capturing life's beautiful moments with artistic vision. Professional photography services for weddings, portraits, events, and commercial projects.",
+      "keywords": [
+        "photography",
+        "studio",
+        "wedding",
+        "portrait",
+        "events",
+        "professional photographer"
+      ],
+      "ogImage": "https://placehold.co/1200x630/1a1a1a/ffffff?text=Ayshan+Photography"
+    },
+    "theme": {
+      "primaryColor": "#ac8f46",
+      "secondaryColor": "#eeebd3",
+      "backgroundColor": "#f5f5f5",
+      "accentColor": "#ded6aa"
+    }
+  },
+  "navbar": {
+    "brandName": "Ayshan",
+    "brandMark": "\u00ae",
+    "barLinks": [
+      {
+        "name": "About",
+        "href": "#why-us"
+      },
+      {
+        "name": "Projects",
+        "href": "#works"
+      },
+      {
+        "name": "Blog",
+        "href": "#faq"
+      }
+    ],
+    "cta": {
+      "label": "Let's Capture",
+      "href": "#footer"
+    },
+    "menuLinks": [
+      {
+        "name": "Home",
+        "number": "01",
+        "href": "#hero"
+      },
+      {
+        "name": "About",
+        "number": "02",
+        "href": "#why-us"
+      },
+      {
+        "name": "Projects",
+        "number": "03",
+        "href": "#works"
+      },
+      {
+        "name": "Testimonials",
+        "number": "04",
+        "href": "#testimonials"
+      },
+      {
+        "name": "Contact",
+        "number": "05",
+        "href": "#footer"
+      }
+    ],
+    "featured": {
+      "studioName": "Ayshan\u00ae Studio",
+      "image": "/assets/images/feature.jpg",
+      "copyright": "\u00a9 2026 All rights reserved"
+    },
+    "contact": {
+      "email": "hello@Ayshan.studio",
+      "phone": "(123) 456-7890"
+    },
+    "socialLinks": [
+      {
+        "name": "Twitter/X",
+        "href": "https://twitter.com"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://linkedin.com"
+      }
+    ]
+  },
+  "hero": {
+    "brandName": "Ayshan",
+    "brandMark": "\u00ae",
+    "description": "Ayshan is a photography studio crafting refined visual stories and timeless portraits.",
+    "image": "/assets/images/hero.jpg",
+    "clients": {
+      "logos": [
+        {
+          "name": "Studio A",
+          "icon": "camera"
+        },
+        {
+          "name": "Brand Co",
+          "icon": "aperture"
+        },
+        {
+          "name": "Photo Lab",
+          "icon": "image"
+        },
+        {
+          "name": "Visual",
+          "icon": "eye"
+        },
+        {
+          "name": "Frame",
+          "icon": "frame"
+        },
+        {
+          "name": "Lens Pro",
+          "icon": "focus"
+        },
+        {
+          "name": "Capture",
+          "icon": "camera"
+        },
+        {
+          "name": "Pixel",
+          "icon": "aperture"
+        }
+      ],
+      "rating": "4.9/5",
+      "trustText": "Trusted by",
+      "trustHighlight": "100+ clients"
+    }
+  },
+  "works": {
+    "sectionTitle": "Selected Work.",
+    "sectionNumber": "02",
+    "sectionDescription": "A curated selection of projects that reflect our commitment to simplicity and purposeful design.",
+    "viewAllLink": {
+      "label": "View all projects",
+      "href": "#"
+    },
+    "items": [
+      {
+        "id": "work-1",
+        "title": "Wedding",
+        "category": "Wedding Photography",
+        "image": "/assets/images/work/wedding.jpg",
+        "year": "2026"
+      },
+      {
+        "id": "work-2",
+        "title": "Bridal",
+        "category": "Bride to Be Photography",
+        "image": "/assets/images/work/bridal.jpg",
+        "year": "2026"
+      },
+      {
+        "id": "work-3",
+        "title": "Baby Shower",
+        "category": "Baby Shower Photography",
+        "image": "/assets/images/work/baby.jpg",
+        "year": "2024"
+      },
+      {
+        "id": "work-4",
+        "title": "Objecta",
+        "category": "Product shoot",
+        "image": "/assets/images/work/object.jpg",
+        "year": "2024"
+      },
+      {
+        "id": "work-5",
+        "title": "Branding",
+        "category": "Corporate Photography",
+        "image": "/assets/images/work/photo.jpg",
+        "year": "2023"
+      },
+      {
+        "id": "work-6",
+        "title": "Graduation",
+        "category": "Graduation Photography",
+        "image": "/assets/images/work/grad.jpg",
+        "year": "2022"
+      }
+    ]
+  },
+  "whyUs": {
+    "sectionLabel": "/Why us",
+    "sectionNumber": "03",
+    "headline": {
+      "main": "We capture moments that are",
+      "highlight": "authentic, timeless, and unforgettable."
+    },
+    "featuredCard": {
+      "title": "Professional Photography for Every Occasion.",
+      "image": "/assets/images/sky.jpg",
+      "year": "2026",
+      "cta": {
+        "label": "Get started",
+        "href": "#contact"
+      },
+      "bulletPoints": [
+        "Personalized Approach",
+        "Quick turnaround",
+        "Clear Communication",
+        "Stunning Results",
+        "Reliable Support"
+      ]
+    },
+    "socialProof": {
+      "avatars": [
+        "/assets/images/avatar/1.jpg",
+        "/assets/images/avatar/2.jpg",
+        "/assets/images/avatar/3.jpg",
+        "/assets/images/avatar/4.jpg",
+        "/assets/images/avatar/5.jpg"
+      ],
+      "rating": "4.9/5",
+      "clientCount": "100+",
+      "clientText": "Happy clients worldwide",
+      "testimonial": {
+        "quote": "Ayshan captured our wedding beautifully. Their ability to find the perfect moments and preserve them forever is what sets them apart.",
+        "author": "Sofia Ford",
+        "role": "Founder",
+        "avatar": "/assets/images/avatar/4.jpg"
+      }
+    },
+    "features": [
+      {
+        "id": "feature-1",
+        "icon": "camera",
+        "title": "Professional Equipment",
+        "description": "We use top-of-the-line cameras and lighting to capture every detail perfectly."
+      },
+      {
+        "id": "feature-2",
+        "icon": "image",
+        "title": "Expert Editing",
+        "description": "Each photo is carefully retouched to ensure stunning, gallery-worthy results."
+      },
+      {
+        "id": "feature-3",
+        "icon": "clock",
+        "title": "Fast Delivery",
+        "description": "Receive your edited photos quickly, with previews available within days of your session."
+      }
+    ],
+    "brandCard": {
+      "brandName": "Ayshan\u00ae",
+      "image": "/assets/images/me.jpg",
+      "headline": "Capture with passion.",
+      "tagline": "Every moment matters."
+    }
+  },
+  "pricing": {
+    "sectionTitle": "Photography Packages.",
+    "sectionNumber": "06",
+    "sectionDescription": "Professional photography packages tailored for every special moment. Choose the perfect package for your occasion.",
+    "packages": [
+      {
+        "id": "wedding",
+        "name": "Wedding",
+        "icon": "heart",
+        "price": 2500,
+        "priceLabel": "Starting from",
+        "description": "Capture every magical moment of your special day with our comprehensive wedding photography package.",
+        "features": [
+          "Full day coverage (8-10 hours)",
+          "Two professional photographers",
+          "500+ edited photos",
+          "Online gallery",
+          "Engagement session included",
+          "Premium photo album"
+        ],
+        "popular": true,
+        "cta": {
+          "label": "Book Now",
+          "href": "#footer"
+        }
+      },
+      {
+        "id": "bridal",
+        "name": "Bridal Shoot",
+        "icon": "sparkles",
+        "price": 800,
+        "priceLabel": "Starting from",
+        "description": "Elegant bridal portraits that celebrate you. Perfect for bride-to-be sessions and pre-wedding shoots.",
+        "features": [
+          "2-3 hour session",
+          "Professional styling guidance",
+          "50+ edited photos",
+          "Multiple outfit changes",
+          "Indoor & outdoor locations",
+          "Digital delivery"
+        ],
+        "popular": false,
+        "cta": {
+          "label": "Book Now",
+          "href": "#footer"
+        }
+      },
+      {
+        "id": "baby-shower",
+        "name": "Baby Shower",
+        "icon": "baby",
+        "price": 600,
+        "priceLabel": "Starting from",
+        "description": "Celebrate the joy of new beginnings with beautiful baby shower photography.",
+        "features": [
+          "2 hour event coverage",
+          "Candid & posed shots",
+          "40+ edited photos",
+          "Guest group photos",
+          "Detail shots of decor",
+          "Quick 7-day delivery"
+        ],
+        "popular": false,
+        "cta": {
+          "label": "Book Now",
+          "href": "#footer"
+        }
+      },
+      {
+        "id": "branding",
+        "name": "Branding",
+        "icon": "briefcase",
+        "price": 1200,
+        "priceLabel": "Starting from",
+        "description": "Professional headshots and brand photography to elevate your business presence.",
+        "features": [
+          "3-4 hour session",
+          "Professional headshots",
+          "Team & office shots",
+          "80+ edited photos",
+          "Commercial usage rights",
+          "Quick turnaround"
+        ],
+        "popular": false,
+        "cta": {
+          "label": "Book Now",
+          "href": "#footer"
+        }
+      },
+      {
+        "id": "graduation",
+        "name": "Graduation",
+        "icon": "graduation-cap",
+        "price": 400,
+        "priceLabel": "Starting from",
+        "description": "Commemorate your academic achievement with timeless graduation portraits.",
+        "features": [
+          "1-2 hour session",
+          "Cap & gown portraits",
+          "30+ edited photos",
+          "Family group shots",
+          "Campus location",
+          "Print-ready files"
+        ],
+        "popular": false,
+        "cta": {
+          "label": "Book Now",
+          "href": "#footer"
+        }
+      },
+      {
+        "id": "product",
+        "name": "Product Shoot",
+        "icon": "box",
+        "price": 500,
+        "priceLabel": "Starting from",
+        "description": "High-quality product photography that makes your items shine for e-commerce and marketing.",
+        "features": [
+          "Up to 20 products",
+          "White background shots",
+          "Lifestyle context shots",
+          "High-resolution files",
+          "E-commerce optimized",
+          "48-hour delivery"
+        ],
+        "popular": false,
+        "cta": {
+          "label": "Book Now",
+          "href": "#footer"
+        }
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "/Testimonials",
+    "sectionNumber": "07",
+    "headline": "Success stories from our clients.",
+    "items": [
+      {
+        "id": "testimonial-1",
+        "type": "video",
+        "name": "Alex D.",
+        "role": "Creative Director",
+        "quote": "",
+        "avatar": "",
+        "videoThumbnail": "/assets/images/avatar/5.jpg",
+        "rating": 5,
+        "ratingText": "4.9/5"
+      },
+      {
+        "id": "testimonial-2",
+        "type": "text",
+        "name": "Emma V.",
+        "role": "Founder",
+        "quote": "Working with Ayshan felt effortless. They have a rare ability to capture genuine emotions and turn them into timeless memories.",
+        "avatar": "/assets/images/avatar/4.jpg",
+        "videoThumbnail": "",
+        "rating": 5,
+        "ratingText": "4.5/5"
+      },
+      {
+        "id": "testimonial-3",
+        "type": "text",
+        "name": "Julian M.",
+        "role": "Creative Director",
+        "quote": "Ayshan doesn't just take photos, they listen, understand your vision, and capture it with precision.",
+        "avatar": "/assets/images/avatar/3.jpg",
+        "videoThumbnail": "",
+        "rating": 5,
+        "ratingText": "4.8/5"
+      },
+      {
+        "id": "testimonial-4",
+        "type": "text",
+        "name": "Sofia R.",
+        "role": "Marketing Lead",
+        "quote": "The attention to detail and artistic vision exceeded all our expectations. Every photo tells a story.",
+        "avatar": "/assets/images/avatar/2.jpg",
+        "videoThumbnail": "",
+        "rating": 5,
+        "ratingText": "5.0/5"
+      },
+      {
+        "id": "testimonial-5",
+        "type": "video",
+        "name": "Marcus T.",
+        "role": "CEO",
+        "quote": "",
+        "avatar": "",
+        "videoThumbnail": "/assets/images/avatar/1.jpg",
+        "rating": 5,
+        "ratingText": "4.7/5"
+      }
+    ]
+  },
+  "faq": {
+    "sectionLabel": "/FAQs",
+    "sectionNumber": "08",
+    "headline": "Wondering How We Work?",
+    "description": "Answers to common questions about our process, services, and how we work.",
+    "cta": {
+      "label": "Contact us",
+      "href": "#contact"
+    },
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "What kind of clients do you work with?",
+        "answer": "We work with a diverse range of clients including couples, families, businesses, and event planners. Whether you're celebrating a wedding, capturing family milestones, or need professional headshots, we're here to preserve your precious moments."
+      },
+      {
+        "id": "faq-2",
+        "question": "What services do you offer?",
+        "answer": "Our services include wedding photography, portrait sessions, event coverage, product photography, and commercial shoots. We offer both comprehensive packages and individual sessions tailored to your specific needs."
+      },
+      {
+        "id": "faq-3",
+        "question": "How do you price your sessions?",
+        "answer": "We offer flexible pricing options based on session type and duration. After understanding your needs during our initial consultation, we provide a detailed quote with transparent pricing. No hidden fees, ever."
+      },
+      {
+        "id": "faq-4",
+        "question": "How long until I receive my photos?",
+        "answer": "Delivery timelines vary based on session type. Portrait sessions are typically delivered within 1-2 weeks, while wedding photos take 4-6 weeks for full editing. We'll provide previews within days of your shoot and keep you updated throughout."
+      },
+      {
+        "id": "faq-5",
+        "question": "Do you travel for destination shoots?",
+        "answer": "Absolutely! We love destination weddings and travel shoots. We work with clients globally and can travel to your preferred location. Travel fees are discussed upfront and included in your quote for complete transparency."
+      },
+      {
+        "id": "faq-6",
+        "question": "Do you accept mini-sessions or only full packages?",
+        "answer": "We accept both! While we love full event coverage, we understand that sometimes you need a quick mini-session. Our packages range from hour-long portrait sessions to full-day wedding coverage, and we're happy to customize based on your needs."
+      },
+      {
+        "id": "faq-7",
+        "question": "How many edited photos will I receive?",
+        "answer": "The number of edited photos varies by package. Portrait sessions include 30-50 photos, while wedding packages include 500+ fully edited images. All photos go through professional editing and color correction. Additional retouching can be arranged if needed."
+      }
+    ]
+  },
+  "footer": {
+    "brand": {
+      "name": "Ayshan",
+      "tagline": "Studio",
+      "brandMark": "\u00ae"
+    },
+    "description": {
+      "text": "Whether you're building a brand, designing a product, or simply want to explore an idea,",
+      "highlight": "we'd love to hear from you."
+    },
+    "contact": {
+      "email": "hello@Ayshan.studio",
+      "phone": "(123) 456-7890"
+    },
+    "newsletter": {
+      "title": "Sign up for our monthly newsletter.",
+      "placeholder": "Email",
+      "buttonText": "Sign up"
+    },
+    "linkGroups": [
+      {
+        "links": [
+          {
+            "name": "Home",
+            "href": "#hero"
+          },
+          {
+            "name": "About",
+            "href": "#why-us"
+          },
+          {
+            "name": "Projects",
+            "href": "#works"
+          },
+          {
+            "name": "Testimonials",
+            "href": "#testimonials"
+          },
+          {
+            "name": "Contact",
+            "href": "#footer"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "name": "Terms & Conditions",
+            "href": "/terms"
+          },
+          {
+            "name": "Privacy Policy",
+            "href": "/privacy"
+          },
+          {
+            "name": "404",
+            "href": "/404"
+          }
+        ]
+      },
+      {
+        "links": [
+          {
+            "name": "Twitter/X",
+            "href": "https://twitter.com"
+          },
+          {
+            "name": "Instagram",
+            "href": "https://instagram.com"
+          },
+          {
+            "name": "LinkedIn",
+            "href": "https://linkedin.com"
+          }
+        ]
+      }
+    ],
+    "credits": {
+      "designedIn": "Designed in",
+      "tool": "Next.js",
+      "by": "By",
+      "author": "Ayshan"
+    },
+    "copyright": "\u00a9 All rights reserved"
+  }
+}
