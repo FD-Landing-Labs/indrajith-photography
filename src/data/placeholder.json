@@ -1,15 +1,15 @@
 {
   "site": {
-    "name": "Ayshan",
+    "name": "Indrajith",
     "tagline": "Photography Studio",
     "description": "Professional photography services capturing your most precious moments with artistic vision and technical excellence.",
     "logo": {
-      "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=Ayshan",
-      "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=Ayshan",
-      "alt": "Ayshan Photography Studio Logo"
+      "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=Indrajith",
+      "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=Indrajith",
+      "alt": "Indrajith Photography Studio Logo"
     },
     "seo": {
-      "title": "Ayshan - Professional Photography Studio",
+      "title": "Indrajith - Professional Photography Studio",
       "description": "Capturing life's beautiful moments with artistic vision. Professional photography services for weddings, portraits, events, and commercial projects.",
       "keywords": [
         "photography",
@@ -19,7 +19,7 @@
         "events",
         "professional photographer"
       ],
-      "ogImage": "https://placehold.co/1200x630/1a1a1a/ffffff?text=Ayshan+Photography"
+      "ogImage": "https://placehold.co/1200x630/1a1a1a/ffffff?text=Indrajith+Photography"
     },
     "theme": {
       "primaryColor": "#ac8f46",
@@ -29,7 +29,7 @@
     }
   },
   "navbar": {
-    "brandName": "Ayshan",
+    "brandName": "Indrajith",
     "brandMark": "\u00ae",
     "barLinks": [
       {
@@ -77,12 +77,12 @@
       }
     ],
     "featured": {
-      "studioName": "Ayshan\u00ae Studio",
+      "studioName": "Indrajith\u00ae Studio",
       "image": "/assets/images/feature.jpg",
       "copyright": "\u00a9 2026 All rights reserved"
     },
     "contact": {
-      "email": "hello@Ayshan.studio",
+      "email": "hello@Indrajith.studio",
       "phone": "(123) 456-7890"
     },
     "socialLinks": [
@@ -101,9 +101,9 @@
     ]
   },
   "hero": {
-    "brandName": "Ayshan",
+    "brandName": "Indrajith",
     "brandMark": "\u00ae",
-    "description": "Ayshan is a photography studio crafting refined visual stories and timeless portraits.",
+    "description": "Indrajith is a photography studio crafting refined visual stories and timeless portraits.",
     "image": "/assets/images/hero.jpg",
     "clients": {
       "logos": [
@@ -233,7 +233,7 @@
       "clientCount": "100+",
       "clientText": "Happy clients worldwide",
       "testimonial": {
-        "quote": "Ayshan captured our wedding beautifully. Their ability to find the perfect moments and preserve them forever is what sets them apart.",
+        "quote": "Indrajith captured our wedding beautifully. Their ability to find the perfect moments and preserve them forever is what sets them apart.",
         "author": "Sofia Ford",
         "role": "Founder",
         "avatar": "/assets/images/avatar/4.jpg"
@@ -260,7 +260,7 @@
       }
     ],
     "brandCard": {
-      "brandName": "Ayshan\u00ae",
+      "brandName": "Indrajith\u00ae",
       "image": "/assets/images/me.jpg",
       "headline": "Capture with passion.",
       "tagline": "Every moment matters."
@@ -420,7 +420,7 @@
         "type": "text",
         "name": "Emma V.",
         "role": "Founder",
-        "quote": "Working with Ayshan felt effortless. They have a rare ability to capture genuine emotions and turn them into timeless memories.",
+        "quote": "Working with Indrajith felt effortless. They have a rare ability to capture genuine emotions and turn them into timeless memories.",
         "avatar": "/assets/images/avatar/4.jpg",
         "videoThumbnail": "",
         "rating": 5,
@@ -431,7 +431,7 @@
         "type": "text",
         "name": "Julian M.",
         "role": "Creative Director",
-        "quote": "Ayshan doesn't just take photos, they listen, understand your vision, and capture it with precision.",
+        "quote": "Indrajith doesn't just take photos, they listen, understand your vision, and capture it with precision.",
         "avatar": "/assets/images/avatar/3.jpg",
         "videoThumbnail": "",
         "rating": 5,
@@ -510,7 +510,7 @@
   },
   "footer": {
     "brand": {
-      "name": "Ayshan",
+      "name": "Indrajith",
       "tagline": "Studio",
       "brandMark": "\u00ae"
     },
@@ -519,7 +519,7 @@
       "highlight": "we'd love to hear from you."
     },
     "contact": {
-      "email": "hello@Ayshan.studio",
+      "email": "hello@Indrajith.studio",
       "phone": "(123) 456-7890"
     },
     "newsletter": {
@@ -589,7 +589,7 @@
       "designedIn": "Designed in",
       "tool": "Next.js",
       "by": "By",
-      "author": "Ayshan"
+      "author": "Indrajith"
     },
     "copyright": "\u00a9 All rights reserved"
   }
